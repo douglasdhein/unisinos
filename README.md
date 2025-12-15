@@ -1,6 +1,6 @@
 # 📚 Análise e Desenvolvimento de Sistemas - Unisinos
 
-Este repositório contém os arquivos, projetos e materiais desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas na Unisinos.
+Este repositório contém os arquivos, projetos e materiais desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas.
 
 ## 📋 Sobre
 
