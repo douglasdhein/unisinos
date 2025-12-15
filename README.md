@@ -1,7 +1,17 @@
-# Gerenciador de Lojas de um Shopping Center
+# 📚 Análise e Desenvolvimento de Sistemas - Unisinos
 
-## Sobre o desafio
+Este repositório contém os arquivos, projetos e materiais desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas na Unisinos.
 
-Um dos locais mais frequentados nos finais de semana, especialmente em épocas de festas, são os shoppings centers. Além de oferecerem ambientes climatizados e seguros, eles reúnem uma grande variedade de lojas, serviços e atividades voltadas para todas as idades.
+## 📋 Sobre
 
-Dentro desse contexto, este projeto foi proposto como desafio da disciplina Laboratório I do curso de Análise e Desenvolvimento de Sistemas. O objetivo é desenvolver um sistema de gerenciamento de lojas de um shopping center, utilizando a linguagem de programação Java.
+Espaço dedicado ao armazenamento e organização de:
+
+- Projetos acadêmicos
+- Exercícios e práticas
+- Trabalhos de disciplinas
+- Códigos de estudo
+
+## 🎓 Instituição
+
+**Universidade do Vale do Rio dos Sinos (Unisinos)**  
+Curso: Análise e Desenvolvimento de Sistemas
